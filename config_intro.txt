@@ -1,0 +1,8 @@
+参照config.txt文件，可视化界面需要生成config.txt文件，以下为该文件内容说明
+E:/mpi/input/                             指定输入文件目录
+E:/mpi/output/                          指定输出文件目录
+E:/mpi/program/detect_water.exe                           指定可执行文件插件路径
+1                                                 指定可执行插件路径的参数列表
+
+
+一定要关闭防火墙。
